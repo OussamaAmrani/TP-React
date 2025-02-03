@@ -16,7 +16,7 @@ cd tp-react-hooks
 git remote remove origin
 
 # Ajouter votre nouveau remote
-git remote add origin https://github.com/[votre-username]/tp-react-hooks.git
+git remote add origin https://github.com/OussamaAmrani/tp-react-hooks.git
 
 # Premier push
 git push -u origin main
@@ -52,11 +52,8 @@ Pour chaque exercice :
 - [ ] 1.3 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 1 :_
-```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
-```
-
+![alt text](src/Screens/Exercice1.PNG)
+<img >
 ### Exercice 2 : Context et Internationalisation
 #### Objectif : Gérer les préférences de langue
 
