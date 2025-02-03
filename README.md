@@ -53,7 +53,8 @@ Pour chaque exercice :
 
 _Votre réponse pour l'exercice 1 :_
 ![alt text](src/Screens/Exercice1.PNG)
-<img >
+![alt text](src/Screens/Exercice1_1.PNG)
+
 ### Exercice 2 : Context et Internationalisation
 #### Objectif : Gérer les préférences de langue
 
@@ -62,10 +63,8 @@ _Votre réponse pour l'exercice 1 :_
 - [ ] 2.3 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 2 :_
-```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
-```
+![alt text](src/Screens/Exercice2.PNG)
+
 
 ### Exercice 3 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
@@ -75,10 +74,10 @@ Expliquez votre solution ici
 - [ ] 3.3 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 3 :_
-```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
-```
+![alt text](src/Screens/Exercice3.PNG)
+![alt text](src/Screens/Exercice3_1.PNG)
+
+
 
 ### Exercice 4 : Gestion Asynchrone et Pagination
 #### Objectif : Gérer le chargement et la pagination
@@ -88,10 +87,9 @@ Expliquez votre solution ici
 - [ ] 4.3 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 4 :_
-```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
-```
+![alt text](src/Screens/Exercice4.PNG)
+![alt text](src/Screens/Exercice4_1.PNG)
+
 
 ## Rendu
 
